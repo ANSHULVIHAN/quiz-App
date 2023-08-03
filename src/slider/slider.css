@@ -1,0 +1,20 @@
+.slider {
+    width: 200px;
+    height: 200px;
+    background-color: #f0f0f0;
+    overflow: hidden;
+    transition: width 0.3s ease;
+  }
+  
+  .slider.open {
+    width: 400px;
+  }
+  
+  .toggle-button {
+    margin: 10px;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
